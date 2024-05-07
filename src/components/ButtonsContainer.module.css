@@ -1,0 +1,8 @@
+.buttonsContainer{
+    display: flex;justify-content: center;flex-wrap: wrap;
+
+}
+.button{
+    width: 45px;height: 45px;margin: 3px;
+
+    background-image: linear-gradient(rgb(244, 175, 187),rgb(224, 234, 187))}

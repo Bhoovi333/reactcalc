@@ -1,0 +1,8 @@
+.calculator{
+border: 1px solid rgb(70, 67, 67);width: 200px;
+    border-radius: 5px;
+}
+body{
+    display: flex;justify-content: center ;padding-top: 15px;
+    background-image: radial-gradient(rgb(246, 124, 124), rgb(219, 219, 148), rgb(123, 191, 216));
+}
